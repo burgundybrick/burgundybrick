@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burgundybrick
 - 👀 I’m interested in code
-- 🌱 I’m currently learning code
+- 🌱 I’m trying to learn code
  
 
 <!---
